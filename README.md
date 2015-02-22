@@ -1,4 +1,4 @@
-chile-data
+Chile Data
 ==========
 
 Datasets no-oficiales relativos a Chile que voy recolectando o generando.
