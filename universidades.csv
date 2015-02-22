@@ -1,0 +1,61 @@
+id,tipo,nombre,sigla,fundacion,sede,otras_sedes
+1,estatal,Universidad de Chile,UCH,1842,Santiago,
+2,particular,Pontificia Universidad Católica de Chile,PUC,1888,Santiago,Villarrica
+3,particular,Universidad de Concepción,UDEC,1919,Concepción,Chillán Los Ángeles
+4,particular,Pontificia Universidad Católica de Valparaíso,PUCV,1925,Valparaíso,Viña del Mar Quillota Quilpué
+5,particular,Universidad Austral de Chile,UACH,1954,Valdivia,Puerto Montt Osorno Coyhaique
+6,estatal,Universidad de Talca,UTAL,1981,Talca,Curicó Santiago Santa Cruz Linares
+7,particular,Universidad Técnica Federico Santa María,UTFSM,1931,Valparaíso,Viña del Mar Hualpén Rancagua Santiago
+8,estatal,Universidad de La Frontera,UFRO,1981,Temuco,Malleco Pucón
+9,privada,Universidad Diego Portales,UDP,1982,Santiago,
+10,particular,Universidad Católica del Norte,UCN,1956,Antofagasta,Coquimbo
+11,privada,Universidad Adolfo Ibáñez,UAI,1988,Santiago,Viña del Mar
+12,privada,Universidad Andrés Bello,UNAB,1988,Santiago,Viña del Mar Talcahuano
+13,estatal,Universidad de Santiago de Chile,USACH,1981,Santiago,
+14,estatal,Universidad del Bío-Bío,UBB,1980,Concepción,Chillán
+15,estatal,Universidad de Valparaíso,UV,1981,Valparaíso,Santiago San Felipe
+16,privada,Universidad de Los Andes,UANDES,1989,Santiago,
+17,estatal,Universidad de Tarapacá,UTA,1981,Arica,Iquique
+18,estatal,Universidad de La Serena,ULS,1981,La Serena,Coquimbo Ovalle
+19,privada,Universidad Alberto Hurtado,UAH,1997,Santiago,
+20,privada,Universidad del Desarrollo,UDD,1990,Concepción,Santiago
+21,estatal,Universidad de Antofagasta,UA,1981,Antofagasta,
+22,estatal,Universidad de Los Lagos,ULA,1993,Osorno,Puerto Montt Santiago
+23,privada,Universidad Mayor,,1988,Santiago,Temuco
+24,estatal,Universidad Metropolitana de Ciencias de la Educación,UMCE,1981,Santiago,
+25,particular,Universidad Católica de Temuco,UCT,1991,Temuco,
+26,estatal,Universidad Tecnológica Metropolitana,UTEM,1993,Santiago,San Fernando
+27,estatal,Universidad de Magallanes,UMag,1981,Punta Arenas,Puerto Natales Porvenir Puerto Williams
+28,estatal,Universidad Arturo Prat,UNAP,1984,Iquique,Arica Calama Antofagasta Santiago Victoria
+29,estatal,Universidad de Atacama,UDA,1981,Copiapó,Vallenar Caldera Santiago
+30,particular,Universidad Católica de la Santísima Concepción,UCSC,1991,Concepción,Talcahuano Los Ángeles Chillán Cañete
+31,particular,Universidad Católica del Maule,UCM,1991,Talca,Curicó
+32,privada,Universidad Santo Tomás,UST,1988,Santiago,Arica Iquique Antofagasta Copiapó La Serena Ovalle Viña del Mar Rancagua Curicó Talca Chillán Concepción Los Ángeles Temuco Valdivia Osorno Puerto Montt Punta Arenas
+33,privada,Universidad Central de Chile,UCEN,1982,Santiago,Antofagasta La Serena
+34,privada,Universidad San Sebastián,USS,1989,Concepción,Puerto Montt Valdivia Osorno Santiago
+35,privada,Universidad Adventista de Chile,UnACh,1990,Chillán,
+36,estatal,Universidad de Playa Ancha,UPLA,1981,Valparaíso,
+37,privada,Universidad Finis Terrae,UFT,1988,Santiago,
+38,privada,"Universidad de Artes, Ciencias y Comunicación",Uniacc,1981,Santiago,Valparaíso Concepción Punta Arenas
+39,privada,Universidad Viña del Mar,UVM,1988,Viña del Mar,San Felipe
+40,privada,Universidad Tecnológica de Chile Inacap,UTCI,1966,Santiago,Arica Iquique Calama Antofagasta Copiapó La Serena Valparaíso Rancagua Talca Curicó Chillán Talcahuano Los Ángeles Temuco Valdivia Osorno Puerto Montt Coyhaique Punta Arenas
+41,privada,Universidad Católica Silva Henríquez,UCSH,1990,Santiago,
+42,privada,Universidad Academia de Humanismo Cristiano,Academia,1988,Santiago,
+43,privada,Universidad de Artes y Ciencias Sociales,ARCIS,1982,Santiago,
+44,privada,Universidad Autónoma de Chile,UA,1989,Temuco,"Talca, Santiago"
+45,privada,Universidad del Pacífico,UPA,1990,Santiago,Concepción
+46,privada,Universidad de Las Américas,UDLA,1988,Santiago,Viña del Mar Concepción
+47,privada,Universidad Gabriela Mistral,UCBC,1981,Santiago,Puerto Varas
+48,privada,Universidad Bernardo O'Higgins,UBO,1990,Santiago,
+49,privada,Universidad Ciencias de la Informática,UCINF,1989,Santiago,
+50,privada,Universidad Internacional SEK,SEK,1990,Santiago,
+51,privada,Universidad del Mar,,1989,Viña del Mar,Arica Iquique Calama Antofagasta Copiapó La Serena Quillota Valparaíso Santiago Curicó Talca Temuco Punta Arenas
+52,privada,Universidad Pedro de Valdivia,UPV,2006,Santiago,Chillán Concepción La Serena Antofagasta
+53,privada,Universidad Bolivariana,UB,1987,Santiago,Iquique La Serena Ovalle Talca Linares Parral Cauquenes Chillán Los Ángeles Concepción
+54,privada,Universidad Iberoamericana de Ciencias y Tecnología,UNICIT,1989,Santiago,
+55,privada,Universidad La República,ULARE,1988,Santiago,Antofagasta Vallenar Illapel San Fernando Chillán Concepción Los Ángeles
+56,privada,Universidad de Aconcagua,UAC,1990,Viña del Mar,Calama Tocopilla La Serena La Ligua Los Andes San Felipe La Calera Quilpué Rancagua Machalí Linares Chillán Concepción Temuco Valdivia Puerto Montt Ancud
+57,privada,Universidad Los Leones,,2003,Santiago,
+58,privada,Universidad Chileno-Británica de Cultura,UCBC,,Santiago,
+59,privada,Universidad Miguel de Cervantes,UMC,1996,Santiago,
+60,privada,Universidad La Araucana,,2013,Santiago,
